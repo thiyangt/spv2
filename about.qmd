@@ -1,0 +1,7 @@
+---
+title: "Stochastic Processes"
+---
+
+This is the course website created by myself ([Dr Thiyanga S. Talagala](https://thiyanga.netlify.app/)) for the unit STA 331 2.0: Stochastic Processes in the BSc (Hons) in Statistics program. I have been maintaining this unit since 2020, with updates and improvements made each year.
+
+If you are looking for a strong student for your company or PhD position who has a solid background in stochastic processes, please feel free to contact me via email at ttalagala@sjp.ac.lk. The students I have recommended in the past are now pursuing their studies or careers at leading universities in Canada, the USA, Australia, and the UK.
