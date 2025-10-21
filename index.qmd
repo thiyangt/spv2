@@ -14,8 +14,7 @@ For additional information: Refer to the Google Classroom
 
 ## Reference Book
 
-[Introduction to Stochastic Processes by Thiyanga S. Talagala](Introduction to Stochastic Processes)
-
+[Introduction to Stochastic Processes by Thiyanga S. Talagala](https://thiyangt.github.io/tst.stochasticprocesses/)
 
 Introduction to Probability Models-10th Edition by Sheldon Ross
 
