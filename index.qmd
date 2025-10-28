@@ -21,3 +21,7 @@ Introduction to Probability Models-10th Edition by Sheldon Ross
 ## Week 1: 21 Oct 2025
 
 [Introduction to Stochastic Processes](https://thiyangt.github.io/stochasticprocessesed2/#1)
+
+## Week 2: 28 Oct 2025
+
+[Markov Chain Processes](https://stochasticprocesses.netlify.app/1_Sp/1_lecture2.pdf)
