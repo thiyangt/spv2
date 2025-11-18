@@ -28,4 +28,4 @@ Introduction to Probability Models-10th Edition by Sheldon Ross
 
 ## Week 3: 18 Nov 2025
 
-[Higher (n-step) transition probabilities](https://thiyangt.github.io/tst.stochasticprocesses/chapter2.html)
+[Higher (n-step) transition probabilities](https://stochasticprocesses.netlify.app/2_stochastic_processes_2021/2_stochastic_processes.pdf)
