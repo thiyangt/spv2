@@ -29,3 +29,7 @@ Introduction to Probability Models-10th Edition by Sheldon Ross
 ## Week 3: 18 Nov 2025
 
 [Higher (n-step) transition probabilities](https://stochasticprocesses.netlify.app/2_stochastic_processes_2021/2_stochastic_processes.pdf)
+
+## Week 4: 21 Nov 2025
+
+[Classification of States](https://stochasticprocesses.netlify.app/3_stochastic_processes_2021/3_stochastic_processes.pdf)
