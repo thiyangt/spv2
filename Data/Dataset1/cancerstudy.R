@@ -2,7 +2,9 @@
 # Example 2.12 and Example 2.18
 # Simulate lung cancer growth
 
-mat <- read.csv("lungcancer.csv",header=T)
+library(readr)
+mat <- read_csv("Data/Dataset1/lungcancer.csv")
+View(mat)
 init <- c(rep(0,22),1,rep(0,27)) # Starting state 23 is Lung
 n <- 8
 markov(init,mat,n)
