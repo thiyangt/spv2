@@ -37,3 +37,9 @@ Introduction to Probability Models-10th Edition by Sheldon Ross
 ## Week 5: 25 Nov 2025
 
 [Limiting probabilities and positive recurrent](https://stochasticprocesses.netlify.app/4limitingprob/4_stochastic_processes.pdf)
+
+## Dec 2, 2025 - Cancelled due to Ditwah storm and flood
+
+## Week 6: 9 Dec 2025
+
+[Markov chain process calculations with R](https://thiyangt.github.io/tst.stochasticprocesses/practical1.html)
