@@ -1,3 +1,5 @@
+# install.packages("pak")
+pak::pak("thiyangt/stochastic")
 library(stochastic)
 # ---------------------------
 # Step 1: Define the transition matrix
