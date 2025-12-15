@@ -30,10 +30,9 @@ Introduction to Probability Models-10th Edition by Sheldon Ross
 
 [Higher (n-step) transition probabilities](https://stochasticprocesses.netlify.app/2_stochastic_processes_2021/2_stochastic_processes.pdf)
 
-##  Week 5: 25 Nov 2025
+## Week 5: 25 Nov 2025
 
 [Classification of States](https://stochasticprocesses.netlify.app/3_stochastic_processes_2021/3_stochastic_processes.pdf)
-
 
 ## Dec 2, 2025 - Cancelled due to Ditwah storm and flood
 
@@ -41,6 +40,12 @@ Introduction to Probability Models-10th Edition by Sheldon Ross
 
 [Markov chain process calculations with R](https://thiyangt.github.io/tst.stochasticprocesses/practical1.html)
 
-## Week 7: 12 Dec 2025
+## Week 7: 16 Dec 2025
 
 [Limiting probabilities and positive recurrent](https://stochasticprocesses.netlify.app/4limitingprob/4_stochastic_processes.pdf)
+
+[Continuous Parameter Markov Chains](https://stochasticprocesses.netlify.app/5_stochastic_processes_2021/5_stochastic_processes_2021.pdf)
+
+## Week 8: 19 Dec 2025
+
+[Poisson Process](https://stochasticprocesses.netlify.app/6_stochastic_processes_2021.pdf)

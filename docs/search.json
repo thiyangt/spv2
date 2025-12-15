@@ -35,18 +35,11 @@
     "text": "Week 2: 28 Oct 2025\nMarkov Chain Processes"
   },
   {
-    "objectID": "index.html#week-3-18-nov-2025",
-    "href": "index.html#week-3-18-nov-2025",
+    "objectID": "index.html#week-3-18-nov-2025-week-4-21-nov-2025",
+    "href": "index.html#week-3-18-nov-2025-week-4-21-nov-2025",
     "title": "STA 331 2.0 Stochastic Processes",
-    "section": "Week 3: 18 Nov 2025",
-    "text": "Week 3: 18 Nov 2025\nHigher (n-step) transition probabilities"
-  },
-  {
-    "objectID": "index.html#week-4-21-nov-2025",
-    "href": "index.html#week-4-21-nov-2025",
-    "title": "STA 331 2.0 Stochastic Processes",
-    "section": "Week 4: 21 Nov 2025",
-    "text": "Week 4: 21 Nov 2025\nClassification of States"
+    "section": "Week 3: 18 Nov 2025/ Week 4: 21 Nov 2025/",
+    "text": "Week 3: 18 Nov 2025/ Week 4: 21 Nov 2025/\nHigher (n-step) transition probabilities"
   },
   {
     "objectID": "index.html#week-5-25-nov-2025",
@@ -70,24 +63,24 @@
     "text": "Week 6: 9 Dec 2025\nMarkov chain process calculations with R"
   },
   {
+    "objectID": "index.html#week-7-16-dec-2025",
+    "href": "index.html#week-7-16-dec-2025",
+    "title": "STA 331 2.0 Stochastic Processes",
+    "section": "Week 7: 16 Dec 2025",
+    "text": "Week 7: 16 Dec 2025\nLimiting probabilities and positive recurrent\nContinuous Parameter Markov Chains"
+  },
+  {
+    "objectID": "index.html#week-8-19-dec-2025",
+    "href": "index.html#week-8-19-dec-2025",
+    "title": "STA 331 2.0 Stochastic Processes",
+    "section": "Week 8: 19 Dec 2025",
+    "text": "Week 8: 19 Dec 2025\nPoisson Process"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Stochastic Processes",
     "section": "",
     "text": "This is the course website created by myself (Dr Thiyanga S. Talagala) for the unit STA 331 2.0: Stochastic Processes in the BSc (Hons) in Statistics program. I have been maintaining this unit since 2020, with updates and improvements made each year.\nIf you are looking for a strong student for your company or PhD position who has a solid background in stochastic processes, please feel free to contact me via email at ttalagala@sjp.ac.lk. The students I have recommended in the past are now pursuing their studies or careers at leading universities in Canada, the USA, Australia, and the UK."
-  },
-  {
-    "objectID": "index.html#week-3-18-nov-2025-week-4-21-nov-2025",
-    "href": "index.html#week-3-18-nov-2025-week-4-21-nov-2025",
-    "title": "STA 331 2.0 Stochastic Processes",
-    "section": "Week 3: 18 Nov 2025/ Week 4: 21 Nov 2025/",
-    "text": "Week 3: 18 Nov 2025/ Week 4: 21 Nov 2025/\nHigher (n-step) transition probabilities"
-  },
-  {
-    "objectID": "index.html#week-7-12-dec-2025",
-    "href": "index.html#week-7-12-dec-2025",
-    "title": "STA 331 2.0 Stochastic Processes",
-    "section": "Week 7: 12 Dec 2025",
-    "text": "Week 7: 12 Dec 2025\nLimiting probabilities and positive recurrent"
   }
 ]
