@@ -49,3 +49,19 @@ Introduction to Probability Models-10th Edition by Sheldon Ross
 ## Week 8: 19 Dec 2025
 
 [Poisson Process](https://stochasticprocesses.netlify.app/6_stochastic_processes_2021.pdf)
+
+## Week 9: 6 January  2026
+
+Mid Semester Examination
+
+## Week 10: 13 January 2026
+
+Distribution of inter arrival time, Distribution of waiting time
+
+[Thinning or splitting a Poisson Process](https://thiyanga.netlify.app/Slides/2020s2StochasticProcesses/7_stochastic_processes_2020.pdf)
+
+## Week 11: 20 January 2026
+
+Compound Poisson Process - cont. from previous slides
+
+Nonhomogeneous Poisson Process - cont. from previous slides
