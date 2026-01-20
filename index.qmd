@@ -50,7 +50,7 @@ Introduction to Probability Models-10th Edition by Sheldon Ross
 
 [Poisson Process](https://stochasticprocesses.netlify.app/6_stochastic_processes_2021.pdf)
 
-## Week 9: 6 January  2026
+## Week 9: 6 January 2026
 
 Mid Semester Examination
 
@@ -65,3 +65,5 @@ Distribution of inter arrival time, Distribution of waiting time
 Compound Poisson Process - cont. from previous slides
 
 Nonhomogeneous Poisson Process - cont. from previous slides
+
+[Important facts about exponential distribution](https://stochasticprocesses.netlify.app/facts.pdf)
