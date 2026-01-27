@@ -69,3 +69,7 @@ Nonhomogeneous Poisson Process - cont. from previous slides
 [Important facts about exponential distribution](https://stochasticprocesses.netlify.app/facts.pdf)
 
 [Birth Process, Death Process and Birth-Death Process](https://thiyangt.github.io/tst.stochasticprocesses/chapter5.html)
+
+## Week 12: 27 January 2026
+
+[Birth and Death Process - Examples](https://stochasticprocesses.netlify.app/14_stochastic_processes.pdf)
